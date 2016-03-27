@@ -5,6 +5,7 @@ from dqn_pendulum import *
 from PIL import Image,ImageDraw,ImageFont
 import imageio
 from matplotlib import pyplot as plt
+import sys
 
 def circle(draw, c, r, col):
     cx,cy=c
