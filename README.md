@@ -2,7 +2,9 @@
 
 Swinging up a pendulm by Deep Q Network
 
-[Qiita](http://qiita.com/ashitani/items/bb393e24c20e83e54577)を参照のこと。
+<img src="https://raw.githubusercontent.com/ashitani/DQN_pendulum/master/best.gif">
+
+詳細は[Qiita](http://qiita.com/ashitani/items/bb393e24c20e83e54577)を参照のこと。
 
 ## Requirement
 
