@@ -2,7 +2,7 @@
 
 Swinging up a pendulm by Deep Q Network
 
-Qiitaを参照のこと。
+[Qiita](http://qiita.com/ashitani/items/bb393e24c20e83e54577)を参照のこと。
 
 ## Requirement
 
@@ -13,16 +13,16 @@ Qiitaを参照のこと。
 
 ## Usage
 
-'''
+```
 python dqn_pendulum.py
-'''
+```
 
 model/以下に1000回おきのモデルとハイスコアを出したモデルが生成されます。
 収束状況のログはlog.csvに書き込まれます。
 
-'''
+```
 python make_gif.py model/000000.model
-'''
+```
 
 などで、アニメーションgifとプロファイルのpngが生成されます。
 
